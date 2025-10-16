@@ -17,7 +17,7 @@ require (
 
 require (
 	github.com/cpuguy83/go-md2man/v2 v2.0.7 // indirect
-	github.com/creack/pty v1.1.7 // indirect
+	github.com/creack/pty v1.1.24 // indirect
 	github.com/hashicorp/errwrap v1.0.0 // indirect
 	github.com/hashicorp/go-multierror v1.1.1 // indirect
 	github.com/russross/blackfriday/v2 v2.1.0 // indirect
